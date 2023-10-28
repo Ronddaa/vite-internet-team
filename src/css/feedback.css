@@ -1,11 +1,13 @@
 .feedback {
   padding: 175px 0;
 }
+
 .feedback-wrap {
   margin-left: auto;
   margin-right: auto;
   max-width: 1180px;
 }
+
 .feedback-title {
   color: #2e363e;
   text-align: center;
@@ -14,6 +16,7 @@
   line-height: 1.3;
   margin-bottom: 60px;
 }
+
 .feedback-container {
   display: flex;
   justify-content: space-between;
@@ -39,12 +42,14 @@
   font-weight: 500;
   line-height: 1.4;
 }
+
 .feedback-text {
   color: #2e363e;
   font-size: 15px;
   font-weight: 400;
   line-height: 1.7;
 }
+
 .feedback-link {
   color: #5f0a61;
   font-family: Montserrat;
@@ -58,11 +63,13 @@
   max-width: 1178px;
   margin-left: 51px;
 }
+
 .feedback-img {
   width: 250px;
   height: 250px;
   
 }
+
 .feedback-subtitle-img {
   color: #2e363e;
   text-align: center;
@@ -73,6 +80,7 @@
   margin-top: 21px;
   margin-bottom: 6px;
 }
+
 .feedback-text-img {
   color: #a6aeb6;
   text-align: center;
