@@ -1,9 +1,11 @@
-body{
-    font-family: "Roboto" sans-serif;
-    color: #434455;
-    background-color: #ffffff;
+body {
+  font-family: 'Roboto' sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
 
-.container{
-
+.container {
+  max-width: 1150px;
+  padding: 0 15px;
+  margin: 0 auto;
 }
