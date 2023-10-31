@@ -1,0 +1,39 @@
+.company {
+    padding-top: 172px;
+    padding-bottom: 172px;
+}
+.container {
+    margin-left: 130px;
+    margin-right: 130px;
+}
+.company-title {
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    line-height: 1.33;
+    margin-bottom: 60px;
+}
+.company-list {
+    display: flex;
+    gap: 70px;
+}
+.company-item {
+ width: calc((100% - 140) / 3);   
+}
+.company-img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 11px;
+}
+.company-subtitle {
+    text-align: center;
+    font-family: Inter;
+    font-size: 22px;
+    line-height: 1.43;
+    margin-bottom: 8px;
+}
+.company-text {
+    font-family: Inter;
+    font-size: 18px;
+    line-height: 1.50;
+}
