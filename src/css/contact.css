@@ -1,0 +1,57 @@
+.contact {
+  background: #fafafa;
+}
+.contact-title {
+  color: #2e363e;
+  text-align: center;
+  text-align: center;
+  font-size: 36px;
+  line-height: 1.3;
+}
+.contact-sub {
+  color: #2e363e;
+  font-family: inherit;
+  text-align: center;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+}
+.contact-number {
+  width: 280px;
+  height: 70px;
+  padding: 0px 133px 0px 30px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.32);
+  background: #fff;
+}
+.contact-name {
+  width: 280px;
+  height: 70px;
+  padding: 0px 133px 0px 30px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.32);
+  background: #fff;
+}
+.contact-btn {
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  line-height: 1.1;
+  width: 280px;
+  padding: 25px 41px;
+  align-items: center;
+  border-radius: 5px;
+  background-color: #5f0a61;
+}
+.contact-input {
+}
+.check-text {
+}
+.check-text-sp {
+}
